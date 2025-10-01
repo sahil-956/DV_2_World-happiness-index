@@ -6,6 +6,7 @@ It allows users to explore the **World Happiness Report 2015 dataset** by filter
 and visualizing happiness scores across countries.  
 
 The application is designed to provide meaningful insights into global happiness trends.
+The Link to the app(visualization):https://worldhappinessvisualization-etosbsufyza4atd8a8boec.streamlit.app/
 
 ---
 
